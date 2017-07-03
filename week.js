@@ -3,8 +3,8 @@
  */
 var async = require('async');
 var gitlab = require('gitlab')({
-    url: 'http://192.168.5.252',
-    token: 'ybFfyQQXqLAi8NgZ3J6i'
+    url: 'http://192.168.5.xxxx',
+    token: 'xxxxxx'
 });
 
 var markdown = require( "markdown" ).markdown;
